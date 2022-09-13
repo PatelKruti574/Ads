@@ -1,6 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
+    "onback_adshow":"1",
    "APP_SETTINGS":{
      
       "app_privacyPolicyLink":"",
