@@ -18,7 +18,7 @@
          "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
          "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
          "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
@@ -39,7 +39,7 @@
          
       },
       "Unity":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "AppID":"4923729"
       },
       "QurekaLite":{
